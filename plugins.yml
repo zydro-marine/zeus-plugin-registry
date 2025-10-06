@@ -1,0 +1,6 @@
+name: "Zeus official plugin registry"
+plugins:
+  - zeus-plugin-template:
+      name: "Template plugin"
+      repository: "https://github.com/zydro-marine/zeus-plugin-template.git"
+      ref: "de1947d"
